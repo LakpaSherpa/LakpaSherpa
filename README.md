@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakpasherpa&label=Profile%20views&color=0e75b6&style=flat" alt="lakpasherpa" /> </p>
 <p align="left"> <a href="https://twitter.com/sherpapls" target="blank"><img src="https://img.shields.io/twitter/follow/sherpapls?logo=twitter&style=for-the-badge" alt="sherpapls" /></a> </p>
 
-- 🌱 I’m currently learning **M.Sc. Software Engineering**
+- 🌱 I’m currently Studying **M.Sc. Software Engineering**
 
 - 💬 Ask me about **Python With Django,Machine Learning, Java, React and JavaScript**
 
