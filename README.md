@@ -16,7 +16,7 @@
 <a href="https://twitter.com/sherpapls" target="blank"><img align="center" src="https://raw.githubusercontent.com/lakpasherpa/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sherpapls" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pasanglakpa-sherpa-lama" target="blank"><img align="center" src="https://raw.githubusercontent.com/lakpasherpa/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasanglakpa-sherpa-lama" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/pasang lakpa sherpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/lakpasherpa/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pasang lakpa sherpa" height="30" width="40" /></a>
-<a href="[https://fb.com](https://www.facebook.com/pl.sherpa2023)/pl.sherpa2023" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pl.sherpa2023)  /></a>
+<a href="[https://fb.com](https://www.facebook.com/pl.sherpa2023)/pl.sherpa2023" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'/></a>
 <a href="https://instagram.com/pl sherpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/lakpasherpa/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pl sherpa" height="30" width="40" /></a>
  
 </p>
